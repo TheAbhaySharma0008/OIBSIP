@@ -1,0 +1,11 @@
+# Nmap 7.99 scan initiated Sun Jun 14 09:43:23 2026 as: nmap -oN nmap_scan_results.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00040s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+445/tcp open  microsoft-ds
+902/tcp open  iss-realsecure
+912/tcp open  apex-mesh
+
+# Nmap done at Sun Jun 14 09:43:23 2026 -- 1 IP address (1 host up) scanned in 0.49 seconds
