@@ -11,5 +11,3 @@ This repository contains all tasks completed during the Oasis Infobyte Cyber Sec
 
 ### Upcoming Tasks
 - Task 2 - Basic Firewall Configuration with UFW
-- Task 5 - Social Engineering Report
-- Task 6 - Patch Management Report
